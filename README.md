@@ -2,7 +2,8 @@
 ---
 
 
-# 🏆 Shikabala Token  (https://en.m.wikipedia.org/wiki/Shikabala)
+# 🏆 Shikabala Token
+!(https://en.m.wikipedia.org/wiki/Shikabala)
 
 Shikabala Token is an **ERC-20 token** built on Ethereum to honor **Mahmoud Abdelrazek "Shikabala"**, the legendary Egyptian football player.  
 
