@@ -1,7 +1,7 @@
 
 ---
 
-```md
+
 # 🏆 Shikabala Token  
 
 ![Shikabala Token](https://your-image-url.com/banner.png)  
@@ -79,14 +79,6 @@ Want to help? Follow these steps:
 
 ---
 
-## 📢 Community & Support  
-Join us and stay updated!  
-- **Twitter:** [@ShikabalaToken](https://twitter.com/ShikabalaToken)  
-- **Telegram:** [Join our group](https://t.me/ShikabalaToken)  
-- **Discord:** [Join the discussion](https://discord.gg/xyz)  
-
----
-
 ## 📄 License  
 This project is licensed under **MIT** – Free to use and modify.  
 
@@ -95,6 +87,3 @@ This project is licensed under **MIT** – Free to use and modify.
 ---
 
 🚀 **Shikabala Token – Built for fans, powered by blockchain!**  
-```
-
----
