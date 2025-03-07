@@ -23,12 +23,6 @@
 
 ### Installation
 
-#### Hardhat (npm)
-
-```
-$ npm install @openzeppelin/contracts
-```
-
 #### Foundry (git)
 
 > [!WARNING]
